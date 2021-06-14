@@ -1,0 +1,12 @@
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\bin\Release\Robotica_trab_10.exe.config
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\bin\Release\Robotica_trab_10.exe.manifest
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\bin\Release\Robotica_trab_10.application
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\bin\Release\Robotica_trab_10.exe
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\bin\Release\Robotica_trab_10.pdb
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\obj\Release\Robotica_trab_10.Form1.resources
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\obj\Release\Robotica_trab_10.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\obj\Release\Robotica_trab_10.csproj.GenerateResource.Cache
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\obj\Release\Robotica_trab_10.exe.manifest
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\obj\Release\Robotica_trab_10.application
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\obj\Release\Robotica_trab_10.exe
+C:\Users\pedro\OneDrive\Faculdade\2020-1\Robótica\Trabalho10\Robotica_trab_10\Robotica_trab_10\obj\Release\Robotica_trab_10.pdb
